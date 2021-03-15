@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#tarjeta {
+    background-color: #D0D1D3;
+    width: 650px;
+    height: 900px;
+
+    display: block;
+    margin : auto;
+    margin-top: 50px;
+    text-align: center;
+}
+
+#imagen{
+    width: 440px;
+    display: block;
+    margin: auto;
+    padding-top : 100px;
+   
+}
+
+#titulo {
+    font-weight: 300;
+    padding-top: 60px;
+    color: #494949;
+}
+
+#parrafo{
+    width: 620px;
+    display: block;
+    margin: auto;
+    font-weight: 300;
+    padding-top: 35px;
+    font-size: 24.5px;
+    color: #202020;
+    text-align: left;
+    line-height: 35px;
+    padding-bottom: 60px;
+    
+
+}
+
+#boton{
+background-color: rgb(245, 31, 31);
+font-size: 35px;
+color: white;
+font-weight: bold;
+border-radius: 15px;
+display:block;
+margin: auto;
+
+width: fit-content;
+padding: 20px 40px ;
+}
